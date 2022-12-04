@@ -1,47 +1,53 @@
  <center>
-     <h1>XXX</h1>
+     <h1>张延</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             18252033833
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             yanzhang.cg@gmail.com
          </span>
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
+             <a href="https://github.com/GraphicYan">GraphicYan</a>
          </span>
          ·
          <span>
              <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
+             <a href="https://graphicyan.github.io/">My Blog</a>
          </span>
      </div>
  </center>
 
+
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1994 年出生
- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+ - 男，1995 年8月生
+ - 求职意向：图形学算法、引擎开发
+ - 工作经验：3年
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
+- **硕士，南京大学，视觉传感与图像实验室，2017.9~2020.6**
+  - TOP高校创新科技大赛AI赛季总冠军（队长）
+  - 一等学业奖学金、院研究生会主席
+  - 发表B类会议论文一篇（Pacific Graphics）、专利一篇
+
+- **学士，南京大学，电子信息与工程学院，2013.9~2017.6**
+  - 全国大学生电子设计竞赛Intel杯嵌入式邀请赛一等奖（队长）
+  - 南京大学优秀毕业生、优秀共青团干部、保送研究生
+  - CET6：531，IELTS：6.5
+
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+- **淘宝（中国）软件有限公司，大淘宝技术部，技术-算法-应用算法，2020.6~至今**
 
-   负责 XXX
+   ​	全流程参与团队**云渲染**引擎的开发迭代、渲染质量保证和资产数据转换等工作。其中，主要负责了自研GPU离线渲染引擎的**材质**模块开发、**渲染算法**优化、场景**数据转换**及其与VRay**渲染效果**对齐的任务；此外，负责了模型处理链路（千万级）的**材质转换**算法节点及渲染**资产优化**的工作；同时，负责了基于**虚幻引擎**及**USD**的规模化场景生产与渲染项目，开发USD2UE插件以及UE云渲染服务。
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
@@ -53,7 +59,7 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★ Java
+- ★★★ C、C++、Python
 - ★★☆ C++、Python
 - ★★★ MySQL
 - ★★★ Redis
